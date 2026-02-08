@@ -4,7 +4,7 @@ Propósito do projeto
 - O propósito deste projeto é demonstrar, de forma simples e direta, como integrar um modelo de linguagem (LLM) em um script Python para geração automática de conteúdo textual, incluindo a persistência do resultado em arquivo.
 - O projeto foca em mostrar o fluxo essencial de uma aplicação com IA:
 
-    prompt → modelo → resposta → armazenamento, servindo como base para automações, geração de documentação e scripts inteligentes.
+    prompt -> modelo -> resposta -> armazenamento, servindo como base para automações, geração de documentação e scripts inteligentes.
 
 
 Como a IA responde
