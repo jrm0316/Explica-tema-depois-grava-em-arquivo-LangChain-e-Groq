@@ -79,6 +79,7 @@ Este projeto é relevante porque demonstra, de forma objetiva:
 - automação de geração de conteúdo
 - persistência de resultados gerados por IA
 - boas práticas no uso de variáveis de ambiente e encoding
+
 Esses conceitos são amplamente utilizados em sistemas modernos que incorporam IA em fluxos internos.
 
 
