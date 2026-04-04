@@ -1,4 +1,4 @@
-# Explica-tema-depois-grava-em-arquivo-LangChain-e-Groq
+# Geração e Salvamento de Conteúdo com IA (Automação em Python)
 
 Propósito do projeto
 - O propósito deste projeto é demonstrar, de forma simples e direta, como integrar um modelo de linguagem (LLM) em um script Python para geração automática de conteúdo textual, incluindo a persistência do resultado em arquivo.
