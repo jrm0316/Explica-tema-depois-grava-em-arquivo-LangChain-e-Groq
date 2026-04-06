@@ -93,3 +93,6 @@ Possíveis evoluções do projeto
 - Geração de múltiplos arquivos automaticamente
 - Integração com API (FastAPI)
 - Análise de arquivos externos
+
+Autor
+    Desenvolvido por Juliano Rodrigues Madeira
