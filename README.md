@@ -94,5 +94,5 @@ Possíveis evoluções do projeto
 - Integração com API (FastAPI)
 - Análise de arquivos externos
 
-Autor
+Autor   
     Desenvolvido por Juliano Rodrigues Madeira
